@@ -1,25 +1,13 @@
 # Tomster-cli
 
-This README outlines the details of collaborating on this Ember addon.
+Tomster-cli is the new component for your Ember-CLI app you didn't know you needed!
 
-## Installation
+This addon will insert Tomster-cli, not only into the background of your Ember app, but also the head of your index.html!
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+To include this in your app, run `npm install --save-dev tomster-cli-ember-addon`.
 
-## Running
+BAM. You're done. Can it be that easy? It is.
 
-* `ember server`
-* Visit your app at http://localhost:4200.
 
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+##TODO
+Include Tomster-cli in index.html footer.
