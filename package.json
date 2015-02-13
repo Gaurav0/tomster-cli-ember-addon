@@ -1,6 +1,6 @@
 {
-  "name": "tomster_cli",
-  "version": "3.0.0",
+  "name": "tomster-cli",
+  "version": "3.0.1",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "test": "tests"
